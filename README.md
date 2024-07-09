@@ -3,9 +3,19 @@ This repository provides the implementations of different Anomaly Detection Meth
 
 ## Citation
 
-You can find our paper at 
+You can find our paper at [https://aclanthology.org/2024.insights-1.11/](https://aclanthology.org/2024.insights-1.11/)
 
 If you find our work useful, please also cite the paper:
+```
+@inproceedings{breidenstein-labeau-2024-using,
+    title = "Using Locally Learnt Word Representations for better Textual Anomaly Detection",
+    author = "Breidenstein, Alicia and Labeau, Matthieu",
+    booktitle = "Proceedings of the Fifth Workshop on Insights from Negative Results in NLP",
+    month = jun,
+    year = "2024",
+    pages = "82--91"
+}
+```
 
 
 ## Abstract
